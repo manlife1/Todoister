@@ -1,4 +1,4 @@
-# MyTodoApp
+# Todoister
 This is a todolist app using Android. Users can perform CRUD operations over tasks. Users can also set priority to tasks and add dates.
 ---
 
